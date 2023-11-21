@@ -1,10 +1,33 @@
+/*Reset no CSS*/
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
-
+/*Configuração do body*/
 body {
   background: #ECE9FD;
-  
+  font-family: 'Epilogue', sans-serif;
+  padding: 60px 23px 77px;
+}
+
+ul {
+  list-style: none;
+}
+
+p {
+  color: #7158EF;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 32px; 
+  letter-spacing: 3px;
+  /*Transforma texto em letra maisúscula*/
+  text-transform: uppercase;
+}
+
+h1 {
+  color: #090039;
+  font-size: 40px;
+  font-weight: 800;
+  line-height: 48px; 
 }
