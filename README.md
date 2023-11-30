@@ -33,13 +33,22 @@ Esse projeto foi desenvolvido com as seguintes tecnologias & ferramentsa:
 
 ## 💻 Projeto
 
-O Projeto 04 - Explorer, é  uma receita de bolo,contendo um parágrafo sobre o bolo em sí e a outra com os ingredientes e instruções do modo de preparo do cheesecake.
+O Projeto 04 - Explorer, é  site de uma empresa que desenvolve projetos para web e mobile.
+Este projeto possui quatro links principais:
+
+- [Experiência do usuário ](http://127.0.0.1:5500/Index.html)
+
+- [Pagamento pelo aplicativo ](https://github.com/PabloPerdigao/Projeto-04-Explorer)
+
+- [Suporte 24h todos os dias](https://www.linkedin.com/in/pabloperdigao/)
+
+- [Saiba Mais](https://www.instagram.com/perdigao.techjourney/)
 
 É um projeto simples e foi desenvolvido com o intuito de aplicar os conhecimentos adquiridos nas aulas do Nível 3 do Explorer sobre a responsividade, ou seja, em relação ao ajuste do tamanho e acessibilidade para a melhor experiência e interação do usuário ao acessar uma receita em diferentes tipos de gadgets.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1256354643188696521). <br/> <strong>OBS:</strong> É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/cA4lzbzQZWHxSnK24qQ5Ti/Explorer-Stage-03-Projeto-02-(Copy)?type=design&node-id=203-412&mode=design&t=gg2A69TNwNtyDZDh-0). <br/> <strong>OBS:</strong> É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 
 😉 Feito com ♥ by Pablo Perdigão, aluno Explorer da Rocketseat! <br/>
